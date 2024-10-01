@@ -1,1 +1,1 @@
-# Ferry-Loading-Simulation
+# Implemented a simulation program that models a ferry transporting cars across a river. The program efficiently handles queues of cars arriving at either bank and calculates the number of trips required to transport all cars while adhering to a weight limit.
